@@ -1,0 +1,46 @@
+@charset "utf-8";
+#Heading {
+	margin-left: 300px;
+	margin-right: 300px;
+	padding-bottom: 0px;
+}
+#Info p {
+	margin-left: 500px;
+	margin-right: 200px;
+}
+#Title {
+	margin-left: 400px;
+	margin-right: 400px;
+	padding-bottom: 0px;
+}
+#santa {
+	margin-left: 550px;
+	margin-right: 550px;
+}
+#navigation {
+	margin-left: 550px;
+	margin-right: 400px;
+}
+#list ol li {
+	margin-left: 700px;
+}
+#sas {
+	margin-left: 500px;
+}
+#tit {
+	margin-left: 800px;
+}
+#ma {
+	margin-left: 600px;
+}
+#pi {
+	margin-left: 500px;
+}
+#ti {
+	margin-left: 800px;
+}
+#na {
+	margin-left: 600px;
+}
+#para {
+}
